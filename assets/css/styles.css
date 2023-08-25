@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Pacifico&family=Roboto:wght@100&display=swap');
+
+body{
+    background-color: rgb(185, 127, 240);
+}
+h1{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    color: blueviolet;
+    font-size: 48px;
+}
+
+.foto1{
+    align-content: center;
+    width: 200px;
+    border-radius: 50px;
+}
+.foto1:hover{
+    align-content: center;
+    width: 400px;
+    border-radius: 50px;
+}
+.menu{
+    text-align: center;
+    list-style-type: none;
+    padding: 20px;
+    margin-right: 40px;
+    font-family: 'Great Vibes', cursive;
+    background-color: rgba(163, 45, 237, 0.599);
+    color: black;
+    border-radius: 50px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);    
+}
+.menu li{
+    margin-right: 40px;
+    display: inline;
+    font-size: 32px;
+    
+}
+.sin-formato{
+    text-decoration: none;
+    color: inherit;
+    
+    
+}
+.sin-formato:hover{
+    font-style: bold;
+    color: rgb(58, 206, 235);
+    background-color: black;
+    
+    
+}
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px; /* Establece una altura para el contenedor */
+  }
+
+footer{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 36px;
+}
+#articulo1{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 24px;
+
+}
+#mapa{
+    text-align: center;
+}
+.nosotros{
+    color: aliceblue;
+}
+.inicio{
+    color: aliceblue;
+}
+#video1{
+    text-align: center;
+}
+.alumnas{
+    color: aliceblue;
+}
+.form{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 24px;
+}
+#h2_alumnas{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 36px;
+}
+.calendario, #calendario, #direccion {
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Great Vibes', cursive;
+    font-size: 36px;
+}
+
